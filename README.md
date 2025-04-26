@@ -17,3 +17,10 @@ No dia 1 o desafio é criar o cabeçalho da página, com a logo, 4 links para pa
 
 ![projeto enviado](https://github.com/user-attachments/assets/91cb433f-8d84-4e19-b1fe-7c95d47c0352)
 ![projeto feito por mim](https://github.com/user-attachments/assets/c1564126-2599-4330-8dd6-1dcb69992d37)
+
+## Dia 2
+
+No dia 2 o desafio é adicionar um banner a página com as informações "Sobre nós" da página, a seguir o exemplo enviado e abaixo o feito por mim:
+
+![projeto enviado](https://github.com/user-attachments/assets/e2747049-c832-4635-8e69-e31bcdf11506)
+![Feito por mim](https://github.com/user-attachments/assets/aca17b33-4d86-4bab-9a04-62774f514410)
