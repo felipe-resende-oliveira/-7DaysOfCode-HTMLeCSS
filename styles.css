@@ -1,0 +1,18 @@
+@import url("styles/cabecalho.css");
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --fonte-principal: "Inter", sans-serif;
+    --cinza-texto: #667085;
+    --vermelho: #8E2424;
+    --branco: #FFFFFF;
+}
+
+body {
+    font-family: var(--fonte-principal);
+}
