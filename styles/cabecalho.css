@@ -14,16 +14,14 @@
     list-style-type: none;
     margin-right: auto;
     margin-left: 10em;
-}
 
-.cabecalho__lista-itens {
-    padding: 0 1em;
 }
 
 .cabecalho__lista-links {
     text-decoration: none;
     color: var(--cinza-texto);
     font-weight: 500;
+    padding: 0 1em;
 }
 
 .cabecalho__cadastro {
