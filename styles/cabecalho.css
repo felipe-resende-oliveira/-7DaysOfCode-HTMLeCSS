@@ -31,14 +31,17 @@
 
 .cadastro__links {
     text-decoration: none;
-    padding: 0.7em;
+    border: none;
+    padding: 1em;
     border-radius: 8px;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .entrar {
     color: var(--cinza-texto);
     margin-right: 1em;
+    background-color: var(--branco);
 }
 
 .cadastrar {

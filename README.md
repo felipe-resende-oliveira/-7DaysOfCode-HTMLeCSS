@@ -24,3 +24,15 @@ No dia 2 o desafio é adicionar um banner a página com as informações "Sobre 
 
 ![projeto enviado](https://github.com/user-attachments/assets/e2747049-c832-4635-8e69-e31bcdf11506)
 ![Feito por mim](https://github.com/user-attachments/assets/aca17b33-4d86-4bab-9a04-62774f514410)
+
+## Dia 3 
+
+Adicionando a seção de métricas no site, criando uma section com 4 divs que incluem um titulo, subtitulo e um paragráfo:
+
+aqui vai a imagem
+
+## Dia 4
+
+Adicionando a primeira parte da sessão de vagas, que contém um span, um titulo, um parágrafo e uma imagem:
+
+imagem aqui

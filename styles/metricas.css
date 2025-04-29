@@ -1,0 +1,31 @@
+.metricas__container {
+    display: flex;
+    justify-content: center;
+    padding: 5em 4em;
+    gap: 3em;
+
+}
+
+.metrica__primaria, .metrica__secundaria, .metrica__terciaria, .metrica__quaternaria {
+   width: 20%;
+   padding-right: 2em;
+
+}
+
+.metrica__titulo {
+    color: var(--vermelho);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.metrica__subtitulo {
+    color: var(--cinza-escuro);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.metrica__texto {
+    color: var(--cinza-texto);
+    font-size: 16px;
+    font-weight: 400;
+}
