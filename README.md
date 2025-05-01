@@ -1,4 +1,4 @@
-# Desafio Alura #7DaysOfCode - Responsividade
+# Desafio Alura #7DaysOfCode - HTML e CSS
 
 O desafio consiste em criar uma página de uma empresa que está recrutando novos programadores de acordo com o Figma enviado e fazê-lo apenas com HTML e CSS. A cada dia você receberá uma parte nova do projeto até o 7 dia finalizá-lo. O projeto por ser apenas focado em HTML e CSS básico, não tem responsividade para aparelhos menores, e não tem funcionalidade nas sessões, campos de inserção ou botões.
 
@@ -41,17 +41,17 @@ Adicionando a primeira parte da sessão de vagas, que contém um span, um titulo
 
 Criando sessão de vagas, que consiste em duas seções com um titulo e alguns cards com as informações das vagas de emprego.
 
-imagem aq
+![Desafio dia 5 feito por mim](https://github.com/user-attachments/assets/836fef88-dc8e-49e9-a9eb-c73ca1b0f259)
 
 ## Dia 6
 
 Criando sessão de comentários de colaboradores, que consiste em uma seção com um subtitulo, um titulo, uma imagem de perfil, nome e cargo do colaborador(a).
 
-imagem aq
+![Desafio dia 6 feito por mim](https://github.com/user-attachments/assets/31592ebc-551c-4d1a-8837-920e8962a212)
 
 ## Dia 7 - Final
 
 Por fim, adicionei um rodapé com um título, subtítulo, um campo para incluir o email e um botão para cadastrá-lo e por fim um parágrafo com os direitos da página.
 
-imagem aq
+![Desafio dia 7 - final feito por mim](https://github.com/user-attachments/assets/4cf1f6ab-9faa-4c4a-8d33-91f7e07cdb29)
 
