@@ -1,8 +1,8 @@
 # Desafio Alura #7DaysOfCode - Responsividade
 
-O desafio consiste em criar uma página de uma empresa que está recrutando novos programadores de acordo com o Figma enviado e fazê-lo apenas com HTML e CSS. A cada dia você receberá uma parte nova do projeto até o 7 dia finalizá-lo
+O desafio consiste em criar uma página de uma empresa que está recrutando novos programadores de acordo com o Figma enviado e fazê-lo apenas com HTML e CSS. A cada dia você receberá uma parte nova do projeto até o 7 dia finalizá-lo. O projeto por ser apenas focado em HTML e CSS básico, não tem responsividade para aparelhos menores, e não tem funcionalidade nas sessões, campos de inserção ou botões.
 
-> Status: Em desenvolvimento
+> Status: Finalizado
 
 <div style="display: inline_block"><br>
    <img align="center" alt="icon-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -36,4 +36,22 @@ Adicionando a seção de métricas no site, criando uma section com 4 divs que i
 Adicionando a primeira parte da sessão de vagas, que contém um span, um titulo, um parágrafo e uma imagem:
 
 ![Desafio dia 4 feito por mim](https://github.com/user-attachments/assets/4542512e-e4bf-4801-a0a4-bf764b193cef)
+
+## Dia 5 
+
+Criando sessão de vagas, que consiste em duas seções com um titulo e alguns cards com as informações das vagas de emprego.
+
+imagem aq
+
+## Dia 6
+
+Criando sessão de comentários de colaboradores, que consiste em uma seção com um subtitulo, um titulo, uma imagem de perfil, nome e cargo do colaborador(a).
+
+imagem aq
+
+## Dia 7 - Final
+
+Por fim, adicionei um rodapé com um título, subtítulo, um campo para incluir o email e um botão para cadastrá-lo e por fim um parágrafo com os direitos da página.
+
+imagem aq
 

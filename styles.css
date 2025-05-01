@@ -2,6 +2,8 @@
 @import url("styles/banner.css");
 @import url("styles/metricas.css");
 @import url("styles/vagas.css");
+@import url("styles/comentario.css");
+@import url("styles/rodape.css");
 
 * {
     box-sizing: border-box;
@@ -12,9 +14,13 @@
 :root {
     --fonte-principal: "Inter", sans-serif;
     --cinza-texto: #667085;
+    --cinza-texto-rodape: #98A2B3;
     --cinza-escuro: #101828;
     --vermelho: #8E2424;
+    --vermelho-opaco: rgba(142, 36, 36, 0.06);
     --branco: #FFFFFF;
+    --cinza-borda: #EAECF0;
+    --cinza-rodape: #F9FAFB;
 }
 
 body {

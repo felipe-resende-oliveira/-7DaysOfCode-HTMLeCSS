@@ -1,0 +1,75 @@
+.rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5em;
+
+    background-color: var(--cinza-rodape);
+}
+
+.rodape__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cinza-escuro);
+    margin-bottom: 1rem;
+}
+
+.rodape__texto {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza-texto);
+}
+
+.rodape__cadastro {
+    width: 100%;
+    margin: 2em 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
+.rodape__email {
+    padding: 1em 3em 1em 0em;
+    width: 25%;
+    border: 1px solid var(--cinza-borda);
+    border-radius: 8px;
+    outline-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza-texto);
+    text-align: center;
+}
+
+.rodape__email::placeholder {
+    position: absolute;
+    left: 1em;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza-texto);
+}
+
+.rodape__email-botao {
+    border: none;
+    background-color: var(--vermelho);
+    padding: .75em 1.25em;
+    border-radius: 8px;
+
+    color: var(--branco);
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.rodape__referencia {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza-texto-rodape);
+}
+
+.rodape__link {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza-texto-rodape);
+    text-transform: none;
+}

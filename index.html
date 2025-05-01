@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <!--cabeçalho da página-->
     <header class="cabecalho">
         <img src="assets/_Button base.svg" alt="Logo OptimusTech" class="cabecalho__imagem">
         <div class="cabecalho__lista">
@@ -24,13 +25,13 @@
             <button href="#" class="cadastro__links cadastrar">Cadastrar</button>
         </div>
     </header>
-
+    <!--container banner sobre nós-->
     <section class="banner">
         <span class="banner__span">Sobre nós</span>
         <h1 class="banner__titulo">Por que somos diferentes?</h1>
         <p class="banner__texto">Nós focamos nos detalhes de tudo que fazemos. Tudo para ajudar as empresas de<br> todo o mundo a se concentrarem naquilo que é realmente importante para elas.</p>
     </section>
-
+    <!--container de métricas-->
     <section class="metricas__container">
         <div class="metrica__primaria">
             <h2 class="metrica__titulo">400+</h2>
@@ -53,14 +54,77 @@
             <p class="metrica__texto">Estamos orgulhosos de contar com mais de 500 reviews 5 estrelas em nossos produtos.</p>
         </div>
     </section>
-
+    <!--container anuncio de vagas abertas-->
+    <section class="container__anuncio">
+        <span class="span__anuncio">Vagas abertas!</span>
+        <h2 class="titulo__anuncio">Estamos procurando por talentos</h2>
+        <p class="texto__anuncio">Somos uma equipe 100% remota com pessoas do Brasil inteiro.</p>
+        <img src="assets/Image.svg" alt="imagem equipe">
+    </section>
+    <!--container de vagas de emprego-->
     <section class="container__vagas">
-        <div class="container__vagas-anuncio">
-            <span class="span__vagas">Vagas abertas!</span>
-            <h2 class="titulo__vagas">Estamos procurando por talentos</h2>
-            <p class="texto__vagas">Somos uma equipe 100% remota com pessoas do Brasil inteiro.</p>
-            <img src="assets/Image.svg" alt="imagem equipe">
+        <div class="vagas__area">
+            <h2 class="vagas__titulo">Design</h2>
+            <div class="vagas__funcao">
+                <span class="vagas__titulo-funcao">Product Designer</span>
+                <div class="vagas__informacoes">
+                    <span class="informacoes__texto">Full-time</span>
+                    <span class="informacoes__texto">Faixa salarial: R$7.000</span>
+                </div>
+            </div>
+            <div class="vagas__funcao">
+                <span class="vagas__titulo-funcao">Ux designer</span>
+                <div class="vagas__informacoes">
+                    <span class="informacoes__texto">Full-time</span>
+                    <span class="informacoes__texto">Faixa salarial: R$6.000</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="vagas__area">
+            <h2 class="vagas__titulo">Desenvolvimento de Software</h2>
+            <div class="vagas__funcao">
+                <span class="vagas__titulo-funcao">Desenvolvedor(a) iOS</span>
+                <div class="vagas__informacoes">
+                    <span class="informacoes__texto">Full-time</span>
+                    <span class="informacoes__texto">Faixa salarial: R$8.000</span>
+                </div>
+            </div>
+            <div class="vagas__funcao">
+                <span class="vagas__titulo-funcao">Desenvolvedor(a) Front-end</span>
+                <div class="vagas__informacoes">
+                    <span class="informacoes__texto">Full-time</span>
+                    <span class="informacoes__texto">Faixa salarial: R$7.000</span>
+                </div>
+            </div>
+            <div class="vagas__funcao">
+                <span class="vagas__titulo-funcao">Desenvolvedor(a) Back-end</span>
+                <div class="vagas__informacoes">
+                    <span class="informacoes__texto">Full-time</span>
+                    <span class="informacoes__texto">Faixa salarial: R$8.000</span>
+                </div>
+            </div>
         </div>
     </section>
+    <!--container comentario de colaboradores-->
+    <section class="container__comentario">
+        <div class="comentario">
+            <span class="comentario__subtitulo">Veja o que nossos colaboladores falm sobre nós</span>
+            <h2 class="comentario__titulo">OptimusTech se importa com a saúde dos seus colaboradores e sempre procura nos dar todo tipo de auxílio possível.</h2>
+            <img src="assets/Avatar.svg" alt="Foto de perfil julia castro" class="comentario__colaborador-foto">
+            <span class="comentario__colaborador-nome">Júlia Castro</span>
+            <span class="comentario__colaborador-cargo">Desenvolvedora Web</span>
+        </div>
+    </section>
+
+    <footer class="rodape">
+        <h2 class="rodape__titulo">Acompanhe as nossas oportunidades</h2>
+        <p class="rodape__texto">Seja o primeiro a saber quando novas vagas serão abertas!</p>
+        <div class="rodape__cadastro">
+            <input type="email" class="rodape__email" id="email" placeholder="Seu e-mail">
+            <button class="rodape__email-botao">Cadastrar</button>
+        </div>
+        <p class="rodape__referencia">&copy 2022 OptimusTech. Todos os direitos reservados. (Feito por <a href="https://github.com/felipe-resende-oliveira" target="_blank" class="rodape__link">Felipe resende oliveira</a>).</p>
+    </footer>
 </body>
 </html>

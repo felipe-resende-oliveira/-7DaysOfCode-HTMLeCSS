@@ -1,34 +1,81 @@
-.container__vagas {
-    display: flex;
-    justify-content: center;
-    padding: 5em 0;
-}
-
-.container__vagas-anuncio {
+.container__anuncio {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 2em;
+    padding: 5em 0;
 }
 
-.span__vagas {
+.span__anuncio {
     color: var(--vermelho);
-    background-color: rgba(142, 36, 36, 0.05);
+    background-color: var(--vermelho-opaco);
     border-radius: 16px;
     padding: .25em .75em;
     font-size: 14px;
     font-weight: 500;
 }
 
-.titulo__vagas {
+.titulo__anuncio {
     font-weight: 600;
     font-size: 36px;
     color: var(--cinza-escuro);
 }
 
-.texto__vagas {
+.texto__anuncio {
     font-weight: 400;
     font-size: 20px;
+    color: var(--cinza-texto);
+}
+
+.vaga {
+    margin: 0 auto;
+}
+
+.container__vagas {
+    margin: 0em 4em 1em 4em;
+}
+
+.vagas__area {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto 4em auto;
+    width: 50%;
+}
+
+.vagas__titulo {
+    margin-bottom: 2em;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+}
+
+.vagas__funcao {
+    width: 100%;
+    height: 10em;
+    padding: 2em;
+    margin-bottom: 1.5em;
+    border: 1px solid var(--cinza-borda);
+    border-radius: 16px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.vagas__titulo-funcao {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+}
+
+.vagas__informacoes {
+    display: flex;
+    gap: 1em;
+}
+
+.informacoes__texto {
+    font-weight: 500;
+    font-size: 16px;
     color: var(--cinza-texto);
 }
